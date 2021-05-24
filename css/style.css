@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+.container{
+    background-color: blanchedalmond;
+    
+       border-radius: 10px;  
+       padding: 10px;
+       width:350px;
+       margin-top: 15rem !important;
+       margin: auto;
+       background-color: white;
+       }
+    
+       .btn-submit {
+        width: 300px;
+        font-size: 15px;
+        font-weight: bold;
+        padding: 8px;
+        color: white;
+        border-style: hidden;
+        cursor:pointer;
+        background-color: #ffe600;
+        text-align: center;
+        display:block;
+         margin-left: 20px; 
+    }
